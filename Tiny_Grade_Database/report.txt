@@ -1,0 +1,14 @@
+Username: Louis1
+Subjects in database: 2
+
+
+Subject: Economics
+Grade: 85.0
+Comment: Give yourself a higher goal!
+
+
+Subject: Art
+Grade: 80.0
+Comment: Keep working, you can get better!
+
+
